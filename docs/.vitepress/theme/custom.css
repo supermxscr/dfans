@@ -1,0 +1,18 @@
+:root {
+  --vp-nav-height: 56px;
+  --vp-c-divider: transparent;
+  --vp-c-indigo-1: #FF64A5;
+  /* --vp-c-bg: #161618; */
+}
+
+.dark {
+  /* --vp-c-bg: #fff; */
+}
+
+.wrapper {
+  background: linear-gradient(90deg, #FF64A5 0%, #FCD535 100%), rgba(0, 0, 0, 0.04)
+}
+
+.content-body {
+  background: transparent !important;
+}
