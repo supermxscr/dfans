@@ -1,3 +1,6 @@
+---
+outline: deep
+---
 # COOKIE NOTICE
 
 Last updated: July 2024
@@ -77,3 +80,4 @@ We do not control cookies or other features that third-party sites may use, and 
 **Managing Cookies:** Check out your device and/or browser (or browser add-on) settings to disable, clear, or block some or all cookies, or provide notifications when you receive a new cookie.
 
 Check out the “**Help**”, “**Tools**”, or “**Preferences**” menus on your browser (or browser add-on), or the documentation for your device, for more information about how to do this.
+
