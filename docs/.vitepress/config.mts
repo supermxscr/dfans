@@ -1,8 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: './',
-  
   title: " ",
   description: "dfans description",
   themeConfig: {

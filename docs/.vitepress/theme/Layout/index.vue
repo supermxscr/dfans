@@ -10,6 +10,8 @@ const enableTransitions = () =>
   window.matchMedia('(prefers-reduced-motion: no-preference)').matches
 
 provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
+  console.log('document', document)
+  console.log(enableTransitions())
   if (!enableTransitions()) {
     isDark.value = !isDark.value
     return
@@ -22,7 +24,8 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
       Math.max(y, innerHeight - y)
     )}px at ${x}px ${y}px)`
   ]
-
+  console.log('document', document)
+  if (typeof document === 'undefined') return
   await document.startViewTransition(async () => {
     isDark.value = !isDark.value
     await nextTick()
@@ -40,10 +43,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
 </script>
 
 <template>
-  <div>
-    <DefaultTheme.Layout />
-    <Content />
-  </div>
+  <DefaultTheme.Layout />
 </template>
 
 <style>

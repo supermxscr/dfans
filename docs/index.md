@@ -29,25 +29,3 @@ features:
     title: 速度真的很快！
     details: 采用静态 HTML 实现快速的页面初次加载，使用客户端路由实现快速的页面切换导航。
 ---
-
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #FF64A5 30%, #FCD535);
-
-  --vp-home-hero-image-background-image: linear-gradient(45deg, #FF64A5 50%, #FCD535 50%);
-  --vp-home-hero-image-filter: blur(44px);
-}
-
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
-
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(68px);
-  }
-}
-</style>
