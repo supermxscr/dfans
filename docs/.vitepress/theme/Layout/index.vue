@@ -40,8 +40,10 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
 </script>
 
 <template>
-  <DefaultTheme.Layout />
-  <Content />
+  <div>
+    <DefaultTheme.Layout />
+    <Content />
+  </div>
 </template>
 
 <style>
