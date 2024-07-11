@@ -6,6 +6,5 @@ export default {
   extends: DefaultTheme,
   Layout,
   enhanceApp({ app, router, siteData }) {
-    // ...
   }
 }
