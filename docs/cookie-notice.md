@@ -5,11 +5,11 @@ outline: deep
 
 Last updated: July 2024
 
-<br/>
+
 
 **dFans** (“**we** ,” “**us**,” “**our**”) respect your privacy and we are committed to protecting the personal data we process about you. dFans is the owner and operator of www.dfans.xyz ("**dFans**"), a social network and content sharing platform that enables: (i) "**Creators**" to share and monetise their own content (as well as subscribe to, and view, the content of other Creators); and (ii) "**Fans**" to subscribe to, and view, the content of Creators.
 
-<br/>
+
 
 **We use the following types of cookies on dFans:**
 
@@ -17,14 +17,14 @@ Last updated: July 2024
 - Non-Essential cookies: If you give us your consent to do so, we use non-essential cookies to enable us to recognise Referring Users, and Referred Creators, under the Referral Program in our Terms of Service.
 We currently do not use any cross-site tracking technologies and we do not sell personal data collected about you, or share personal data collected about you for cross-context behavioral advertising.
 For more information about what cookies are, why we use them, and how you can opt out of, manage, or delete them, please review this Cookie Notice. Any personal data associated with cookies is processed in accordance with our Privacy Policy.
-  
-  <br/>
+
+
 
 #### WHAT ARE COOKIES?
 
 "**Cookies**" are small strings of text or computer code stored locally on your device that allow us and our third-party service providers, to “remember” or “recognise” a particular browser or device and, in some cases, store information about that browser or device.
 
-<br/>
+
 
 #### HOW LONG ARE COOKIES STORED ON MY DEVICE?
 
@@ -32,7 +32,7 @@ For more information about what cookies are, why we use them, and how you can op
 **Persistent Cookies: **"Persistent Cookies" are stored for a set amount of time (often between 90 days and 2 years, depending on the application) and are typically not deleted when a browser session is closed.
 Your choices may affect whether we use session or persistent cookies for a particular application. For example, if you select “Remember me for 30 days” when logging in to dFans, your verification status is stored on a persistent cookie for 30 days to remember the device that you signed in from.
 
-<br/>
+
 
 #### WHAT COOKIES DO WE USE, AND WHY?
 
@@ -57,7 +57,9 @@ Your choices may affect whether we use session or persistent cookies for a parti
 Disabling, clearing, or blocking these cookies on your browser (or browser add-on) may prevent dFans, or certain functionalities on dFans, from working correctly or at all.
 
 **Non-Essential Cookies:**
-We currently offer a Referral Program, where existing Creators of dFans can use their unique referral code to introduce people who are interested in becoming Creators on dFans. The Referral Program is subject to the Referral Program Terms in our [**Terms of Service**](https://) and any referral payments are calculated, and limited, as described in the Referral Program Terms.
+
+We currently offer a Referral Program, where existing Creators of dFans can use their unique referral code to introduce people who are interested in becoming Creators on dFans. The Referral Program is subject to the Referral Program Terms in our [**Terms of Service**](/terms-of-service) and any referral payments are calculated, and limited, as described in the Referral Program Terms.
+
 We use the following cookies to allow us to recognise the Referring User and the Referred Creator under the Referral Program. If you would like to participate in the Referral Program, the Referring User and the Referred Creator will need to accept non-essential cookies to ensure that any referrals are recognised. If the Referring User or the Referred Creator does not agree to these cookies, we will not be able to recognise the referral or make referral payments. Disabling, clearing, or blocking these cookies may also prevent our ability to recognise referrals made under the Referral Program.
 
 
@@ -67,12 +69,12 @@ We use the following cookies to allow us to recognise the Referring User and the
 |ref|to establish referral user ID (Referred Creator)|
 |reg_ref_user_id / reg_ref|to recognise referral of Referred Creator by Referring User|
 
-<br/>
+
 
 **Third-Party Functionality:**
-We do not control cookies or other features that third-party sites may use, and the information practices of those third-party websites are not covered by our [**Privacy Policy**](https://) or this **[Cookie Notice](https://)**.
+We do not control cookies or other features that third-party sites may use, and the information practices of those third-party websites are not covered by our [**Privacy Policy**](/privacy-policy) or this **[Cookie Notice](/cookie-notice)**.
 
-<br/>
+
 
 ####HOW DO I CONTROL OR MAKE CHOICES ABOUT COOKIES?
 **Accepting or Rejecting Non-Essential Cookies: **We will only place the non-essential cookies mentioned above on your device if you click “Accept All” in the cookie banner when you first access dFans.
